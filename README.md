@@ -1,5 +1,7 @@
 # imu-constraint-cpp-el-wr
-Code pertaining to the following manuscript: Drift-free joint angle calculation using inertial measurement units without magnetometers: an exploration of sensor fusion methods for the elbow and wrist
+Code pertaining to the Journal Paper: 
+
+Chen, H.; Schall, M.C., Jr.; Martin, S.M.; Fethke, N.B. Drift-Free Joint Angle Calculation Using Inertial Measurement Units without Magnetometers: An Exploration of Sensor Fusion Methods for the Elbow and Wrist. Sensors 2023, 23, 7053. https://doi.org/10.3390/s23167053
 
 Tested on PC with Windows 10 with Visual Studio Code 1.76.2
 
